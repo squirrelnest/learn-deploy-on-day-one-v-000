@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#mikka-pineda-cover {
+    background-image: url("http://i.imgur.com/Y49b0.jpg");
+}
+
+#mikka-pineda-card {
+    background-image: url("http://i.imgur.com/elAWHVD.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
